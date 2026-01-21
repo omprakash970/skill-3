@@ -2,6 +2,8 @@
 
 A Spring Boot application built with Spring Data JPA and MySQL for product management. This project demonstrates the implementation of a RESTful service architecture with persistent data storage.
 
+> **Note:** The internal project name is `skill2` as defined in the Maven configuration, while the repository is named `skill-3`.
+
 ## 📋 Table of Contents
 
 - [Features](#features)
